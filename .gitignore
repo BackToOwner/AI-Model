@@ -1,0 +1,25 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ML model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
